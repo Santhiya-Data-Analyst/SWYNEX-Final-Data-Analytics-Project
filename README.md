@@ -51,8 +51,7 @@ Built using Power BI Desktop to visually communicate the findings.
 - Interactive filters (Type, Year Added)
 
 
-
-![Netflix Dashboard](NETFLIX DASHBOARD.png)
+![Netflix Dashboard](NETFLIX%20DASHBOARD.png)
 
 
 
